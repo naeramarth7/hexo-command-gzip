@@ -1,0 +1,26 @@
+{
+  "name": "hexo-command-gzip",
+  "description": "Gzip command plugin for Hexo.",
+  "version": "0.0.1",
+  "author": "Sven Flickinger <hc4e2k@gmail.com> (http://inject.coffee)",
+  "main": "index",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "naeramarth7/hexo-command-gzip"
+  },
+  "keywords": [
+    "hexo",
+    "gzip",
+    "coffee-script"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "coffee-script": "^1.9.3",
+    "gzipme": "0.0.9",
+    "walk": "^2.3.9"
+  }
+}
