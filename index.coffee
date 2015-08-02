@@ -8,7 +8,8 @@ module.exports = (hexo) ->
     files = []
 
     fileHandler = (root, stat, next) ->
-      files.push "#{root}/#{stat.name}"
+      if stat.name.match /\.(ico|html|js|css|json|xml|ttf|eot|ott|woff|svg)$/
+        files.push "#{root}/#{stat.name}"
       next()
 
     endHandler = ->
