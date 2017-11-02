@@ -19,8 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^1.0.0",
-    "coffee-script": "^1.9.3",
-    "gzipme": "0.0.9",
+    "gzipme": "^0.1.1",
     "walk": "^2.3.9"
   },
   "scripts": {}
