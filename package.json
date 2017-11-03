@@ -1,7 +1,7 @@
 {
   "name": "hexo-command-gzip",
   "description": "Gzip command plugin for Hexo.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Sven Flickinger <hc4e2k@gmail.com> (http://inject.coffee)",
   "main": "index",
   "engines": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "naeramarth7/hexo-command-gzip"
+    "url": "https://github.com/naeramarth7/hexo-command-gzip"
   },
   "keywords": [
     "hexo",
