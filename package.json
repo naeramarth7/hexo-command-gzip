@@ -13,13 +13,11 @@
   },
   "keywords": [
     "hexo",
-    "gzip",
-    "coffee-script"
+    "gzip"
   ],
   "license": "MIT",
   "dependencies": {
     "chalk": "^1.0.0",
-    "gzipme": "^0.1.1",
     "walk": "^2.3.9"
   },
   "scripts": {}
